@@ -1,0 +1,46 @@
+* 
+  /** Estilos de página */
+  {
+    box-sizing: border-box;
+  }
+  
+  .header {
+    border: 2px solid #0099cc;
+    border-bottom: 4px solid #0099cc;
+    background-color : #a5e1f5;
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+  }
+  
+  .menu {
+    width: 30%;
+    float: left;
+    padding: 15px;
+    border: 1px solid #0099cc;
+    background-color :#e1f6fd;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .main {
+    width: 70%;
+    float: left;
+    padding: 15px; 
+    padding-left: 20px;
+    border: 1px solid #0099cc;
+    background-color :#f7f7f7;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  /** Estilos de lineas */
+
+  H1 {
+    font-weight: bold;
+  }
+
+  P1 {
+    font-weight: bold;
+  }
+
+    /** Estilos de */
